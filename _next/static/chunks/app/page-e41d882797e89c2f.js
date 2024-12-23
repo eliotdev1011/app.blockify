@@ -30,7 +30,7 @@
                         children: (0, n.jsxs)("div", {
                             className: "container",
                             children: [(0, n.jsx)(s.default, {
-                                href: "https://www.blendr.network/",
+                                href: "https://www.blockify.pro/",
                                 children: (0, n.jsxs)("div", {
                                     className: "logo",
                                     children: [(0, n.jsx)("img", {
@@ -561,7 +561,7 @@
                                     height: 64
                                 }), (0, n.jsx)("div", {
                                     className: "font-bold text-white text-4xl",
-                                    children: "Connect to Blendr"
+                                    children: "Connect to Blockify"
                                 }), (0, n.jsxs)("div", {
                                     className: "flex flex-col gap-2 px-4 w-full",
                                     children: [(0, n.jsxs)("div", {
