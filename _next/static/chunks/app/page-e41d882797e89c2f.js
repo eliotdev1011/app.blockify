@@ -674,7 +674,7 @@
                                 className: "text-base",
                                 children: ["Confirm you are at", " ", (0, n.jsx)("span", {
                                     className: "font-bold",
-                                    children: "https://staking.blendr.network"
+                                    children: "http://app.blockify.pro/"
                                 }), " ", "by typing the address into your browser and confirming the validity of the SSL certificate"]
                             })]
                         }), (0, n.jsx)("div", {
