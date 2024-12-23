@@ -58,7 +58,7 @@
                                         })
                                     }), (0, n.jsx)("li", {
                                         children: (0, n.jsxs)("a", {
-                                            href: "https://twitter.com/BlendrNetwork",
+                                            href: "https://twitter.com/BlockifyAI_eth",
                                             target: "_blank",
                                             children: [(0, n.jsxs)("span", {
                                                 children: ["X ", (0, n.jsx)("span", {
@@ -80,15 +80,6 @@
                                                 children: "Documentation"
                                             }), (0, n.jsx)("span", {
                                                 "data-text": "Documentation"
-                                            })]
-                                        })
-                                    }), (0, n.jsx)("li", {
-                                        children: (0, n.jsxs)(s.default, {
-                                            href: "/",
-                                            children: [(0, n.jsx)("span", {
-                                                children: "Stake"
-                                            }), (0, n.jsx)("span", {
-                                                "data-text": "Stake"
                                             })]
                                         })
                                     })]
@@ -757,14 +748,14 @@
                     children: [(0, n.jsx)("button", {
                         className: "text-center text-white py-4 md:px-16 px-12  rounded-full hover:opacity-75 shrkbutton",
                         children: (0, n.jsx)("a", {
-                            href: "https://t.me/",
+                            href: "https://t.me/blockifyai_eth",
                             target: "_blank",
                             children: "Telegram"
                         })
                     }), (0, n.jsx)("button", {
                         className: "text-center text-white py-4 md:px-16 px-12 rounded-full hover:opacity-75 shrkbutton",
                         children: (0, n.jsxs)("a", {
-                            href: "https://twitter.com/",
+                            href: "https://twitter.com/BlockifyAI_eth",
                             target: "_blank",
                             children: ["X\xa0", (0, n.jsx)("span", {
                                 className: "opacity-50",
