@@ -74,7 +74,7 @@
                                         })
                                     }), (0, n.jsx)("li", {
                                         children: (0, n.jsxs)("a", {
-                                            href: "https://blendr-network.gitbook.io/blendr-network-technical-plan-docs",
+                                            href: "https://app.blockify.pro/",
                                             target: "_blank",
                                             children: [(0, n.jsx)("span", {
                                                 children: "Documentation"
@@ -131,19 +131,13 @@
                                 children: [(0, n.jsxs)("ul", {
                                     children: [(0, n.jsx)("li", {
                                         children: (0, n.jsx)("a", {
-                                            href: "https://drive.google.com/file/d/1gI0NL8koLs1UGBmxPjpmP57VI0Ata8ez/view?pli=1",
-                                            target: "_blank",
-                                            children: "Whitepaper"
-                                        })
-                                    }), (0, n.jsx)("li", {
-                                        children: (0, n.jsx)("a", {
                                             href: "https://etherscan.io/token/0x00000000000000000000000000000#code",
                                             target: "_blank",
                                             children: "Contract"
                                         })
                                     }), (0, n.jsx)("li", {
                                         children: (0, n.jsx)("a", {
-                                            href: "https://blendr-network.gitbook.io/blendr-network-technical-plan-docs",
+                                            href: "https://app.blockify.pro/",
                                             target: "_blank",
                                             children: "Documentation"
                                         })
