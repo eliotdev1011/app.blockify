@@ -48,7 +48,7 @@
                                     className: "links",
                                     children: [(0, n.jsx)("li", {
                                         children: (0, n.jsxs)("a", {
-                                            href: "https://etherscan.io/token/0x00000000000000000000000000000#code",
+                                            href: "https://etherscan.io/token/0x13331e6055F12737ba16c92937985D9f816cfC18#code",
                                             target: "_blank",
                                             children: [(0, n.jsx)("span", {
                                                 children: "Contract"
@@ -131,7 +131,7 @@
                                 children: [(0, n.jsxs)("ul", {
                                     children: [(0, n.jsx)("li", {
                                         children: (0, n.jsx)("a", {
-                                            href: "https://etherscan.io/token/0x00000000000000000000000000000#code",
+                                            href: "https://etherscan.io/token/0x13331e6055F12737ba16c92937985D9f816cfC18#code",
                                             target: "_blank",
                                             children: "Contract"
                                         })
